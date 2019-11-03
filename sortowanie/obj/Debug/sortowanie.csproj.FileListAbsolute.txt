@@ -1,0 +1,29 @@
+D:\net\wiktorhosumbek\sortowanie\sortowanie\bin\Debug\sortowanie.exe.config
+D:\net\wiktorhosumbek\sortowanie\sortowanie\bin\Debug\sortowanie.exe
+D:\net\wiktorhosumbek\sortowanie\sortowanie\bin\Debug\sortowanie.pdb
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.csprojAssemblyReference.cache
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\MainWindow.g.cs
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\App.g.cs
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie_MarkupCompile.cache
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie_MarkupCompile.lref
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\MainWindow.baml
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.g.resources
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.Properties.Resources.resources
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.GenerateResource.cache
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.exe
+D:\net\wiktorhosumbek\sortowanie\sortowanie\obj\Debug\sortowanie.pdb
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\bin\Debug\sortowanie.exe.config
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\bin\Debug\sortowanie.exe
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\bin\Debug\sortowanie.pdb
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.csprojAssemblyReference.cache
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\MainWindow.g.cs
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\App.g.cs
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie_MarkupCompile.cache
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie_MarkupCompile.lref
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\MainWindow.baml
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.g.resources
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.Properties.Resources.resources
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.GenerateResource.cache
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.csproj.CoreCompileInputs.cache
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.exe
+F:\semestr 5\Nowy folder\sortowanie\sortowanie\obj\Debug\sortowanie.pdb

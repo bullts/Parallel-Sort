@@ -1,0 +1,24 @@
+﻿<Window x:Class="sortowanie.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sortowanie"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="969.507">
+    <Grid>
+        <Button Content="Dodaj" HorizontalAlignment="Left" Margin="177,33,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_AddValues" Height="23"/>
+        <ListBox x:Name="ListBox_BeforeSort" HorizontalAlignment="Left" Height="299" Margin="72,61,0,0" VerticalAlignment="Top" Width="180
+"/>
+        <TextBox x:Name="TextBox_Podaj_liczbe" HorizontalAlignment="Left" Height="23" Margin="72,33,0,0" TextWrapping="Wrap" Text="Podaj ilosc liczb" VerticalAlignment="Top" Width="99"/>
+        <ListBox x:Name="ListBox_BubbleSort" HorizontalAlignment="Left" Height="299" Margin="426,61,0,0" VerticalAlignment="Top" Width="180" />
+        <Button Content="Sortuj" HorizontalAlignment="Left" Margin="305,147,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_BubbleSort"/>
+        <Label Content="Posortowana lista BubbleSort" HorizontalAlignment="Left" Margin="426,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.214,0.331" Width="180"/>
+        <ListBox x:Name="ListBox_QuickSort" HorizontalAlignment="Left" Height="299" Margin="630,61,0,0" VerticalAlignment="Top" Width="180" />
+        <Label Content="Posortowana lista QuickSort" HorizontalAlignment="Left" Margin="630,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.214,0.331" Width="180"/>
+        <Label x:Name="BubbleSort_time" Content="czas" HorizontalAlignment="Left" Margin="426,365,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="QuickSort_time" Content="czas" HorizontalAlignment="Left" Margin="630,365,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.778,0.446"/>
+        <Label x:Name="All_time" Content="czas" HorizontalAlignment="Left" Margin="305,172,0,0" VerticalAlignment="Top"/>
+        <Button Content="SortujR" HorizontalAlignment="Left" Margin="305,223,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+    </Grid>
+</Window>
